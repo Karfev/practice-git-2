@@ -1,1 +1,2 @@
 Work with GUI
+Line 1
