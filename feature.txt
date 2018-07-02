@@ -1,0 +1,3 @@
+Work with GUI
+Line 1
+Line 2
